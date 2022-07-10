@@ -1,0 +1,5 @@
+additional_screenshots/*
+.vscode
+.ipynb_checkpoints
+./*/__pycache__
+.DS_Store
